@@ -1,2 +1,2 @@
 # DataScienceProjects
-Personal projects from Google Colan
+Personal projects from Google Colab
